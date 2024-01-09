@@ -2,7 +2,7 @@
 Multi-purpose lighting systems
 |components | pictures | 
 | ------- | ------- | 
-| arduino Uno R3   |  <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/BUTTON.jpg" alt="图片2">  |
+| arduino Uno R3   |  <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/ARDUINO.jpg" alt="图片2">  |
 | BUTTON   | <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/BUTTON.jpg" alt="图片2">   |
 | DHT22  | <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/DHT22.jpg" alt="图片2">   |
 | LDR SENSOR   | <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/LDR.jpg" alt="图片2">   |
