@@ -25,7 +25,15 @@ This Arduino-based smart lighting project is focused on creating an adaptive and
 | STRIPBOARD   | <img src="https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/stripboard.jpg" alt="图片2">   |
 
 ## Development Process
-The development involved initial prototyping on a breadboard, with iterative coding and testing phases. Features developed include:
+The development involved initial prototyping on a breadboard, with iterative coding and testing phases.
+### Prototype on Breadboard
+
+Here is an image of the initial prototype of our smart lighting system assembled on a breadboard:
+
+![Prototype on Breadboard]( https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/prototype_on_board.png)
+
+*Description*: This image shows the early stage of our project where the components like the Arduino Uno, NeoPixel LED strip, and various sensors were first assembled on a breadboard for testing and development purposes.
+Features developed include:
 - Motion-activated lighting
 - Sound-responsive light adjustment
 - Temperature-based color change
@@ -46,11 +54,13 @@ This video showcases the system's light and motion detection capabilities:
 - Detection of motion brightens the lights again.
 - High ambient light turns the lights off.
 Please click on the image to get a video of the test.
+
 [![PIR and LDR Functionality](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/383fad217de8e0ed550265989b889f2f.jpg)](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/383fad217de8e0ed550265989b889f2f.mp4)
 
 ### Temperature-Induced Color Change
 Watch how the light color changes with temperature variations using a heat gun
-Please click on the image to get a video of the test:
+Please click on the image to get a video of the test
+
 [![Temperature-Induced Color Change](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/41a0a2142cf68fdd3831e19f4db4e728.jpg)](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/41a0a2142cf68fdd3831e19f4db4e728.mp4)
 
 ## Future Work
