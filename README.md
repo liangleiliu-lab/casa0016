@@ -45,10 +45,12 @@ This video showcases the system's light and motion detection capabilities:
 - Absence of motion leads to dimming the lights.
 - Detection of motion brightens the lights again.
 - High ambient light turns the lights off.
+Please click on the image to get a video of the test.
 [![PIR and LDR Functionality](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/383fad217de8e0ed550265989b889f2f.jpg)](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/383fad217de8e0ed550265989b889f2f.mp4)
 
 ### Temperature-Induced Color Change
-Watch how the light color changes with temperature variations using a heat gun:
+Watch how the light color changes with temperature variations using a heat gun
+Please click on the image to get a video of the test:
 [![Temperature-Induced Color Change](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/41a0a2142cf68fdd3831e19f4db4e728.jpg)](https://github.com/liangleiliu-lab/casa0016/blob/main/test_presentation/41a0a2142cf68fdd3831e19f4db4e728.mp4)
 
 ## Future Work
