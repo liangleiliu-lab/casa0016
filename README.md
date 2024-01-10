@@ -40,6 +40,7 @@ Features developed include:
 - Motion-activated lighting
 - Sound-responsive light adjustment
 - Temperature-based color change
+
 The final design was assembled on a stripboard with a custom laser-cut enclosure.
 
 ![Prototype on stripboard]( https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240110143847.jpg)
