@@ -75,5 +75,3 @@ Please click on the image to get a video of the test
 - **Analytics Feature**: Adding usage data analysis for further efficiency.
 
 
-## Contact
-For any inquiries, please reach out to [Your Contact Information].
