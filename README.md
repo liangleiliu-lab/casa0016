@@ -66,7 +66,6 @@ Please click on the image to get a video of the test
 ## Future Work
 - **Outdoor Adaptation**: Incorporating weatherproof features and solar power.
 - **Enhanced User Interface**: Developing an intuitive control application.
-- **Smart Home Integration**: Expanding compatibility with IoT platforms.
 - **Analytics Feature**: Adding usage data analysis for further efficiency.
 
 
