@@ -33,11 +33,16 @@ Here is an image of the initial prototype of our smart lighting system assembled
 ![Prototype on Breadboard]( https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/prototype_on_board.png)
 
 *Description*: This image shows the early stage of our project where the components like the Arduino Uno, NeoPixel LED strip, and various sensors were first assembled on a breadboard for testing and development purposes.
+
+The system has two functions, which are switched by a switch. The first mode will first detect the surrounding light intensity, if the surrounding light intensity is too high will not light up, if the light intensity is low will light up, after the light will detect whether there is human activity around, after a period of time no human activity will be detected will gradually reduce the intensity of the light to 10%; the colour of the light will be mapped to the temperature, the low temperature warm tones, the high temperature cold tones. In addition, in one mode, the light will automatically switch off whenever the light intensity is too high. In the second mode, the light will stay on, but the light intensity will change according to the intensity of the surrounding sound.
+
 Features developed include:
 - Motion-activated lighting
 - Sound-responsive light adjustment
 - Temperature-based color change
 The final design was assembled on a stripboard with a custom laser-cut enclosure.
+
+![Prototype on stripboard]( https://github.com/liangleiliu-lab/casa0016/blob/main/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240110143847.jpg)
 
 ## Product Features
 - **Adaptive Brightness**: Auto-adjusts based on ambient light levels.
